@@ -13,8 +13,9 @@ Git es un sistema de control de versiones distribuido que permite a los desarrol
 
 ## Flujo de Trabajo
 1. Realiza cambios en tu proyecto
-2. Añade los cambios al área de preparación con `git add
+2. Añade los cambios al área de preparación con `git add"
 3. Realiza un commit con `git commit`.
 4. Envía los cambios al repositorio remoto con `git push`.
 
 ¡Y eso es todo! Ahora sabes los comandos básicos para trabajar con Git.
+## nueva linea
