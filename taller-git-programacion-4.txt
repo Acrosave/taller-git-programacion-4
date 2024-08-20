@@ -1,0 +1,20 @@
+# Tutorial de Git
+
+## Introducción
+Git es un sistema de control de versiones distribuido que permite a los desarrolladores colaborar en proyectos de software de manera eficiente.
+
+## Comandos Básicos
+- `git init`: Inicializa un nuevo repositorio de Git.
+- `git clone <url>`: Clona un repositorio existente.
+- `git add <archivo>`: Añade un archivo al área de preparación.
+- `git commit -m "mensaje"`: Realiza un commit con un mensaje descriptivo.
+- `git push`: Envía los cambios al repositorio remoto.
+- `git pull`: Actualiza el repositorio local con los cambios del remoto.
+
+## Flujo de Trabajo
+1. Realiza cambios en tu proyecto
+2. Añade los cambios al área de preparación con `git add
+3. Realiza un commit con `git commit`.
+4. Envía los cambios al repositorio remoto con `git push`.
+
+¡Y eso es todo! Ahora sabes los comandos básicos para trabajar con Git.
